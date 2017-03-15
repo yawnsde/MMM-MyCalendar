@@ -1,6 +1,9 @@
-# Module: Calendar
-The `calendar` module is one of the default modules of the MagicMirror.
-This module displays events from a public .ical calendar. It can combine multiple calendars.
+# MMM-MyCalendar
+
+This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror).
+It is a forked version of the original calendar module developed by MichMich, but with changed output and some additional stuff for outlook.com calendars
+
+# Please note this is work in progress and not yet tidied up!
 
 ## Using the module
 
